@@ -60,7 +60,7 @@ main.py dosyasını çalıştırarak uygulamayı başlatın.
 8.2. Kullanımı	
 8.3. Uygulama Ekran Görüntüleri	
    
-<br>Geliştiriciler
+<br>Geliştiriciler<br>
 # 1190505029 Musa Güney
 # 1190505623 Berkant Yurtsever
 # 1190505026 Tuana Burçak Yavuz
