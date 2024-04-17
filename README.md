@@ -16,12 +16,12 @@ Projenin dosyalarını Spyder IDE'sine aktarın.
 main.py dosyasını çalıştırarak uygulamayı başlatın.
 
 
-_1. GİRİŞ	
-_2. OPTİK OKUMA TEKNOLOJİLERİ ÜZERİNE BİR İNCELEME	
-**2.1 Optik Okuma Nedir ve Nasıl Çalışır?	
-**2.2 Optik Okuma Teknolojileri ve Yöntemleri	
-**2.3 Optik Okuma Sistemlerinde Kullanılan Yazılım ve Algoritmalar	
-**2.3 Optik Okuma Sistemlerinde Kullanılan Yazılım ve Algoritmalar	
+**1. GİRİŞ	
+2. OPTİK OKUMA TEKNOLOJİLERİ ÜZERİNE BİR İNCELEME	
+2.1 Optik Okuma Nedir ve Nasıl Çalışır?	
+2.2 Optik Okuma Teknolojileri ve Yöntemleri	
+2.3 Optik Okuma Sistemlerinde Kullanılan Yazılım ve Algoritmalar	
+2.3 Optik Okuma Sistemlerinde Kullanılan Yazılım ve Algoritmalar	
 
 2. OPTİK OKUMA TEKNOLOJİLERİ ÜZERİNE BİR İNCELEME	
 2.1 Optik Okuma Nedir ve Nasıl Çalışır?	
