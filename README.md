@@ -16,10 +16,10 @@ Projenin dosyalarını Spyder IDE'sine aktarın.
 main.py dosyasını çalıştırarak uygulamayı başlatın.
 
 Geliştiriciler
- 1190505029 Musa Güney
- 1190505623 Berkant Yurtsever
- 1190505026 Tuana Burçak Yavuz
- 1170505021 Caner Sazak 
+# 1190505029 Musa Güney
+# 1190505623 Berkant Yurtsever
+# 1190505026 Tuana Burçak Yavuz
+# 1170505021 Caner Sazak 
 
 Lisans
 Bu projenin dökümantasyonu, Kırklareli Üniversitesi Yazılım Mühendisliği bölümü 4. sınıf bitirme projesi olarak hazırlanan Word belgesinde bulunmaktadır. Döküman, projenin tasarımı, işlevleri, kullanım kılavuzu ve diğer detayları hakkında ayrıntılı bilgi içermektedir. Dökümantasyon dosyası, projenin kök dizinine eklenmiştir. 
