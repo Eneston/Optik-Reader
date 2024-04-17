@@ -16,7 +16,7 @@ Projenin dosyalarını Spyder IDE'sine aktarın.
 main.py dosyasını çalıştırarak uygulamayı başlatın.
 
 
-**1. GİRİŞ	
+1. GİRİŞ	
 2. OPTİK OKUMA TEKNOLOJİLERİ ÜZERİNE BİR İNCELEME	
 2.1 Optik Okuma Nedir ve Nasıl Çalışır?	
 2.2 Optik Okuma Teknolojileri ve Yöntemleri	
