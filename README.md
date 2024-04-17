@@ -61,7 +61,7 @@ main.py dosyasını çalıştırarak uygulamayı başlatın.
 8.3. Uygulama Ekran Görüntüleri	
    
 Geliştiriciler
-*_ Musa Güney
+# Musa Güney
 # Berkant Yurtsever
 # Tuana Burçak Yavuz
 # Caner Sazak 
