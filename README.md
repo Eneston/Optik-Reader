@@ -61,10 +61,10 @@ main.py dosyasını çalıştırarak uygulamayı başlatın.
 8.3. Uygulama Ekran Görüntüleri	
    
 Geliştiriciler
-# 1190505029 Musa Güney
-# 1190505623 Berkant Yurtsever
-# 1190505026 Tuana Burçak Yavuz
-# 1170505021 Caner Sazak 
+# Musa Güney
+# Berkant Yurtsever
+# Tuana Burçak Yavuz
+# Caner Sazak 
 
 Lisans
 Bu projenin dökümantasyonu, Kırklareli Üniversitesi Yazılım Mühendisliği bölümü 4. sınıf bitirme projesi olarak hazırlanan Word belgesinde bulunmaktadır. Döküman, projenin tasarımı, işlevleri, kullanım kılavuzu ve diğer detayları hakkında ayrıntılı bilgi içermektedir. Dökümantasyon dosyası, projenin kök dizinine eklenmiştir. 
